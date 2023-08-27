@@ -81,7 +81,7 @@ table {
  </tr>
  <tr>
   <td>Laughing Bacchus Winecellars</td>
-  <td>Yoshi Tannamuri</tr>td>
+  <td>Yoshi Tannamuri</td>
   <td>Canada</td>
  </tr>
  <tr>
